@@ -4,7 +4,7 @@ This project analyzes heart disease data using SQL queries and visualizes insigh
 The dashboard is integrated with a Flask web application to display the visualization in a web interface.
 
 ## Project Features
-- Data analysis using SQL queries
+- Data analysis using SQL queries.
 - Interactive Tableau dashboard
 - Story-based visualization explaining insights
 - Flask web integration for displaying the dashboard
