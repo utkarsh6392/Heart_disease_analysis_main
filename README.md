@@ -28,7 +28,7 @@ Heart_disease_analysis
 
 1. Clone the repository
 
-git clone https://github.com/rishikanigam2006315/Heart_disease_analysis.git
+git clone https://github.com/utkarsh6392/Heart_disease_analysis_main
 
 2. Navigate to the project folder
 
