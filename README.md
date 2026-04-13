@@ -45,6 +45,7 @@ http://127.0.0.1:5000
 ## Tableau Dashboard
 
 The interactive dashboard is created using Tableau Public and embedded in the Flask web application.
+https://public.tableau.com/views/HeartDiseaseAnalysisDashboard_17728890159480/Story1?:embed=y&:showVizHome=no
 
 ## Tableau Dashboard Video
 
