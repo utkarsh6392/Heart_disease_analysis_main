@@ -45,4 +45,8 @@ http://127.0.0.1:5000
 ## Tableau Dashboard
 
 The interactive dashboard is created using Tableau Public and embedded in the Flask web application.
+
+## Tableau Dashboard Video
+
+https://drive.google.com/file/d/1WEQwM3_PtHottY3adGAl9L7S7m3cLv6L/view?usp=sharing
 .
